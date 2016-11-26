@@ -1,5 +1,6 @@
 ---
-title: kubernetes中authN/Z源码解析
+title: k8s_auth
+date: 2016-11-26 20:05:14
 tags:
 	- kubernetes
 	- go
