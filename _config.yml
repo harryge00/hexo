@@ -8,7 +8,7 @@ subtitle:
 description: Personal blog
 author: Haoyuan
 language:
-timezone: China
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -79,4 +79,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:harryge00/harryge00.github.io.git
-  branch: blog
+  branch: master
